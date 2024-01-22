@@ -24,8 +24,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu1260&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu1260&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sudhanshu1260&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sudhanshu1260&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
