@@ -1,6 +1,6 @@
 # 
 <div align="center">
-    <h1 align="center"> Sudhanshu Ranjan </h1>
+    <h1 align="center"> 𝑺𝒖𝒅𝒉𝒂𝒏𝒔𝒉𝒖 𝑹𝒂𝒏𝒋𝒂𝒏 </h1>
     <h2><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=3000&lines=(Front-End+Developer);(UI+Developer)" /></h2>
     <img src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" alt="Coding" />
     <h2> 💫 About Me </h2>
