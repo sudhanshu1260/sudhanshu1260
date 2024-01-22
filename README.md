@@ -2,7 +2,7 @@
 <div align="center">
     <h1 align="center"> 𝑺𝒖𝒅𝒉𝒂𝒏𝒔𝒉𝒖 𝑹𝒂𝒏𝒋𝒂𝒏 </h1>
     <h2><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=3000&lines=(Front-End+Developer);(UI+Developer)" /></h2>
-    <img src="[https://img.freepik.com/free-photo/medium-shot-man-working-computer_23-2150287696.jpg?w=1380&t=st=1705934549~exp=1705935149~hmac=cfb4680e458705cc2874ab630a94bd185eeaff8f89967f3d9d29c73e32f07307](https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=1380&t=st=1705934751~exp=1705935351~hmac=ba768ea4c10cf7e2092addeadafe0362a46cd375ff3c69358389a509561b629e)" alt="Coding" />
+    <img src="[[https://img.freepik.com/free-photo/medium-shot-man-working-computer_23-2150287696.jpg?w=1380&t=st=1705934549~exp=1705935149~hmac=cfb4680e458705cc2874ab630a94bd185eeaff8f89967f3d9d29c73e32f07307](https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=1380&t=st=1705934751~exp=1705935351~hmac=ba768ea4c10cf7e2092addeadafe0362a46cd375ff3c69358389a509561b629e)](https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=1380&t=st=1705934751~exp=1705935351~hmac=ba768ea4c10cf7e2092addeadafe0362a46cd375ff3c69358389a509561b629e)" alt="Coding" />
     <h2> 💫 About Me </h2>
     <p> 🔭 I'm currently working on <b>HTML, CSS, JavaScript,Core Java, SQL, RDBMS</b> <br/> 🌱 I’m currently learning <b>Java full Stack Development</b> <br/> 📫 How to reach me <b><a href="mailto: sudhanshu.nld5@gmail.com"> Mail Me </a></b></p> 
 </div>
