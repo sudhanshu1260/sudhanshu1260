@@ -1,7 +1,7 @@
 # 
 <div align="center">
     <h1 align="center"> 𝐒𝐮𝐝𝐡𝐚𝐧𝐬𝐡𝐮 𝐑𝐚𝐧𝐣𝐚𝐧 </h1>
-    <h2><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=3000&lines=(Front-End+Developer);(Aspiring-Java-Full-Stack+Developer)" /></h2>
+    <h2><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&duration=3000&lines=(Front-End+Developer);(Java-Full-Stack+Developer)" /></h2>
     <img src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010130.jpg?w=1380&t=st=1705934883~exp=1705935483~hmac=d7e0896fd9a6e737cbeeb10a1e6ed1050d0946a0301558a583895fa45de705db" alt="Coding" />
     <h2> 💫 About Me </h2>
     <p> 🔭 I'm currently working on <b>HTML5, CSS3, JavaScript, React, CoreJava, SQL, RDBMS, MongoDB</b> <br/> 🌱 I’m currently learning <b>Java full Stack Development</b> <br/> 📫 How to reach me <b><a href="mailto: sudhanshu.nld5@gmail.com"> Mail Me </a></b></p> 
